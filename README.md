@@ -111,7 +111,7 @@ This final step converts the cured polymer film into the durable graphitic surfa
 
 ## License
 
-This inspiration of this project is credited to "Yura" of RaccoonWorks. Licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S)**.
+The inspiration for continuation of this project is credited to "Yura" of RaccoonWorks, who first recognised the capability of Polydopamine for this purpose. Project licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S)**.
 
 See the LICENSE file for the full text. In short, this "ShareAlike" license allows you to use, modify, and share this work, but any modifications or derivatives you distribute must also be shared under this same license.
 
