@@ -74,7 +74,7 @@ This solution co-deposits the polymer binder (polydopamine) and the nanoparticle
 
 **Embodiment A: "True Crosslinking" (In-Situ Method)**
 
-*Use this to bond the silica to the polymer matrix.*
+*Use this to bond the silica to the polymer matrix. GPTMS preferrable.*
 
 1.  During **Stage I, Step 4**, add your chosen silane (e.g., GPTMS or APTES) to the nanoparticle/dopamine solution.
 2.  The silane will bond to the silica nanoparticles while the solution is stirred.
@@ -83,7 +83,7 @@ This solution co-deposits the polymer binder (polydopamine) and the nanoparticle
 
 **Embodiment B: "Adhesion-Promoting Primer" (Priming Method)**
 
-*Use this to bond the entire film to the substrate.*
+*Use this to bond the entire film to the substrate. APTES preferrable.*
 
 1.  **Prime Substrate:** Before application, treat your *clean, bare* substrate with a dilute solution of amino-silane (e.g., 1-2% APTES in 95% ethanol / 5% water).
 2.  Allow the silane to react with the substrate (e.g., 30-60 min), then rinse with pure ethanol and dry/cure (e.g., 110°C for 30 min). This creates an "amine-lawn" on the surface.
