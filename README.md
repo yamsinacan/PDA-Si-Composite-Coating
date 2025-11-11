@@ -121,5 +121,3 @@ We strongly encourage contributions, improvements, and forks!
 
 *   **Report Issues:** If you find a problem with the protocol or have a safety concern, please [open an issue](https://www.google.com/search?q=https://github.com/YourUsername/YourRepoName/issues).
 *   **Suggest Improvements:** The best way to contribute is to fork the repository, make your changes, and submit a **Pull Request**. Please document your changes and (if possible) provide data/images to support them.
-
-````
