@@ -1,0 +1,12 @@
+# Ignore OS-generated files
+.DS_Store .DS_Store? ._* .Spotlight-V100 .Trashes ehthumbs.db Thumbs.db
+
+# Ignore common data/output folders
+# You might want to add data, but not raw output
+/data/raw/
+/output/
+/build/
+
+# Ignore local editor/IDE config
+.vscode/
+.idea/
