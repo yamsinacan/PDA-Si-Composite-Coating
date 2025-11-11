@@ -1,4 +1,4 @@
-# Composite Graphitic Coating for Additive Manufacturing
+# Composite Graphitic LAPDA:SiO2 Coating for Additive Manufacturing
 
 An open-source protocol for creating a durable, high-adhesion, graphitic composite coating, particularly for 3D printer build plates. This process is designed to be a permanent, wear-resistant replacement for consumable surfaces like PEI sheets or tapes.
 
@@ -111,7 +111,7 @@ This final step converts the cured polymer film into the durable graphitic surfa
 
 ## License
 
-This project is licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S)**.
+This inspiration of this project is credited to "Yura" of RaccoonWorks. Licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S)**.
 
 See the LICENSE file for the full text. In short, this "ShareAlike" license allows you to use, modify, and share this work, but any modifications or derivatives you distribute must also be shared under this same license.
 
